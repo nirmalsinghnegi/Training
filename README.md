@@ -1,2 +1,3 @@
 # Training
-this is my first Repository
+This is my first Repository
+Author:Nirmal Singh Negi
